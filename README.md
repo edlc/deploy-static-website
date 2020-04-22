@@ -23,8 +23,3 @@ Website URL at the time of submission: d3050gmimajiwe.cloudfront.net/index.html
 ## Author 
 * **Edison Cardenas**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-Project: Deploy Static Website on AWS
-
