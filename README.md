@@ -2,6 +2,8 @@
 
 In this project, I created an S3 bucket, configured the bucket for website hosting, and secured it using IAM policies.
 
+Website URL at the time of submission: d3050gmimajiwe.cloudfront.net/index.html
+
 ### Built With
 
 * Cloud Services:
@@ -25,4 +27,4 @@ In this project, I created an S3 bucket, configured the bucket for website hosti
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 Project: Deploy Static Website on AWS
-Website URL: d3050gmimajiwe.cloudfront.net/index.html
+
